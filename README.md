@@ -1,5 +1,9 @@
 # browserify-bookmarklet-skeleton
 
+Make your bookmarklet a browserify bundle.
+
+---
+
 Use as a starting point if you want to:
 
 - Get the benefits of browserify such as
