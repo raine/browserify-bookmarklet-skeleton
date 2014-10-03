@@ -1,0 +1,23 @@
+{
+  "name": "browserify-bookmarklet-skeleton",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js | tap-spec"
+  },
+  "author": "",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^1.5.2",
+    "browserify": "^5.12.1",
+    "concat-stream": "^1.4.6",
+    "gulp": "^3.8.8",
+    "gulp-preprocess": "^1.1.1",
+    "gulp-util": "^3.0.1",
+    "tap-spec": "^1.0.0",
+    "tape": "^3.0.0",
+    "uglifyify": "^2.5.0"
+  }
+}
